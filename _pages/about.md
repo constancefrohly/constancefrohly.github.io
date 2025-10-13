@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD candidate in Economics at <a href='https://www.sciencespo.fr/department-economics/directory/frohly-constance/'>Sciences Po Paris</a>
 
 profile:
   align: right
