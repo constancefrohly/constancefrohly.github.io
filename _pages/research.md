@@ -6,12 +6,13 @@ description: Research projects and ongoing work
 nav: true
 nav_order: 3
 display_categories: [work, fun]
+horizontal: false
 -----------------
 
 
 
 
-## Working Papers
+## Working Paper
 
 ### [Forced to Face the Truth: A Meta-Analysis on the Effectiveness of Moral Reminders](https://ideas.repec.org/p/hal/wpaper/halshs-05456784.html)
 
