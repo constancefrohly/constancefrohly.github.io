@@ -6,7 +6,6 @@ description: Research projects and ongoing work
 nav: true
 nav_order: 3
 display_categories: [work, fun]
-horizontal: false
 -----------------
 
 
