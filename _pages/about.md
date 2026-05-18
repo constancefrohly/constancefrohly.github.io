@@ -29,7 +29,7 @@ latest_posts:
 
 Welcome to my website! I am a PhD student in Economics at Sciences Po, under the supervision of <a href='https://sites.google.com/site/pierrecahuc/'>Pierre Cahuc</a> and <a href='https://sites.google.com/site/emericmlhenry/home'>Emeric Henry</a>. 
 
-My interests are in Education and Experimental Economics. I work on school choice and social segregation, with a particular focus on the role of information.
+My interests are in Behavioural and Education Economics. I work on school choice and social segregation, with a particular focus on the role of information and beliefs.
 
 Don't hesitate to get in touch!
 
