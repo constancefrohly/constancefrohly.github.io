@@ -13,7 +13,7 @@ horizontal: false
 
 
 
-**<u>[Forced to Face the Truth: A Meta-Analysis on the Effectiveness of Moral Reminders](https://ideas.repec.org/p/hal/wpaper/halshs-05456784.html)</u>**
+[**<u>Forced to Face the Truth: A Meta-Analysis on the Effectiveness of Moral Reminders</u>**](https://ideas.repec.org/p/hal/wpaper/halshs-05456784.html)
 
 **with R. Galbiati, E. Henry, and N. Jacquemet**
 CEPR Discussion Paper No. 21025, January 2026
