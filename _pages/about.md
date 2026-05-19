@@ -31,6 +31,8 @@ Welcome to my website! I am a PhD student in Economics at Sciences Po, under the
 
 My interests are in Behavioural and Education Economics. I work on the determinants and consequences of school choice, with a particular focus on the role of households' information and beliefs.
 
+I will be visiting Yale next academic year thanks to the Fox Fellowship. 
+
 Don't hesitate to get in touch!
 
 <!---
